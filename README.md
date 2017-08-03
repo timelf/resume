@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+###References
+Shen, C., & Björk, B.-C. (2015). “Predatory” open access: a longitudinal study of article volumes and market characteristics. *BMC Medicine*, 13(1). doi:[10.1186/s12916-015-0469-2](http://doi.org/10.1186/s12916-015-0469-2)
 
-You can use the [editor on GitHub](https://github.com/timelf/resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Shen, Cenyu, and Bo-Christer Björk. 2015. “Predatory” Open Access: A Longitudinal Study of Article Volumes and Market Characteristics. *BMC Medicine* 13(1). Springer Nature. DOI:[10.1186/s12916-015-0469-2](http://dx.doi.org/10.1186/s12916-015-0469-2).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/timelf/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Elfenbein, Timothy W. (2014). *Cultural Anthropology* and the Infrastructure of Publishing. *Cultural Anthropology*, 29(2), 288–303. doi:[10.14506/ca29.2.06](http://doi.org/10.14506/ca29.2.06).

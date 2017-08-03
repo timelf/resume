@@ -1,4 +1,4 @@
-###References
+### References
 
 Shen, C., & Björk, B.-C. (2015). “Predatory” open access: a longitudinal study of article volumes and market characteristics. *BMC Medicine*, 13(1). doi:[10.1186/s12916-015-0469-2](http://doi.org/10.1186/s12916-015-0469-2)
 
